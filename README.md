@@ -1,2 +1,2 @@
 # codewars-katas
-Repository to house Codewars Python and SQL challenges
+Repository to archive completed Codewars Python and SQL challenges
